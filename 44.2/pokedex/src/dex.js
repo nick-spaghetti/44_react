@@ -18,7 +18,7 @@ const Pokedex = (props) => {
 					/>
 				))}
 			</div>
-			<h4>total expoerience: {props.exp}</h4>
+			<h4>total experience: {props.exp}</h4>
 			{winMessage}
 		</div>
 	);
