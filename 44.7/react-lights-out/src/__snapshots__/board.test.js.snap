@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Board /> rendering matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      you win
+    </h1>
+  </div>
+</DocumentFragment>
+`;
